@@ -1,3 +1,4 @@
+#CoEquip
 1. CoEquip - A Covid equipment solution is a Web application where customer can search and filter products . The project is a full-fledged website made with HTML5, CSS3, and JavaScript.
 
 ![Screenshot (700)](https://user-images.githubusercontent.com/75442226/166518863-dfa32675-3e61-4943-a611-75fbc45999a8.png)
